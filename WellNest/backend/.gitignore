@@ -1,0 +1,23 @@
+# ==========================================
+# WELLNEST BACKEND GITIGNORE
+# ==========================================
+
+# Dependencies
+node_modules/
+
+# Local Environment Secrets (CRITICAL)
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Logs and error monitoring
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE/System file clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
