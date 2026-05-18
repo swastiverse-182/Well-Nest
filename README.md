@@ -21,32 +21,44 @@ Yoga Recommendations: Suggests poses targeting specific body areas and fitness g
 AI-Powered Wellness Guide: Offers actionable insights covering mental, physical, and nutritional wellness.
 Wellness Video Search: Enables users to explore relevant fitness, yoga, and nutrition videos via the YouTube Data API.
 ---
-Screenshots
-🏠 Home Page
-![Home Page](.WellNest/frontend/public/images/home.png)
-👤 User Home
-![User Home](.WellNest/frontend/public/images/user_home_page.png)
-🔐 Login & Register
-Login	Register
-![Login](.WellNest/frontend/public/images/login.png)	![Register](public/images/register.png)
-📊 Dashboard
-![Dashboard](.WellNest/frontend/public/images/dashboard.png)
-🧘 Wellness Page
-![Wellness](.WellNest/frontend/public/images/wellness_page.png)
-🥗 Nutrition Advice
-![Nutrition Advice](.WellNest/frontend/public/images/nutrition_advice.png)
-🏋️ Physical Wellness
-![Physical Wellness](.WellNest/frontend/public/images/physical_wellness.png)
-🧮 BMI Calculator
-![BMI Calculator](.WellNest/frontend/public/images/bmi_calculator.png)
-🎯 Goals
-![Goals](.WellNest/frontend/public/images/goals.png)
-📅 Calendar
-![Calendar](.WellNest/frontend/public/images/calendar.png)
-🧘 Yoga Search
-![Yoga Search](.WellNest/frontend/public/images/yoga_search.png)
-🎥 Wellness Videos
-![Wellness Videos](.WellNest/frontend/public/images/wellness_videos.png)
+## Screenshots
+
+### 🏠 Home Page
+![Home Page](WellNest/frontend/public/images/home.png)
+
+### 👤 User Home
+![User Home](WellNest/frontend/public/images/user_home_page.png)
+
+### 🔐 Login & Register
+![Login](WellNest/frontend/public/images/login.png) 
+![Register](WellNest/frontend/public/images/register.png)
+
+### 📊 Dashboard
+![Dashboard](WellNest/frontend/public/images/dashboard.png)
+
+### 🧘 Wellness Page
+![Wellness](WellNest/frontend/public/images/wellness_page.png)
+
+### 🥗 Nutrition Advice
+![Nutrition Advice](WellNest/frontend/public/images/nutrition_advice.png)
+
+### 🏋️ Physical Wellness
+![Physical Wellness](WellNest/frontend/public/images/physical_wellness.png)
+
+### 🧮 BMI Calculator
+![BMI Calculator](WellNest/frontend/public/images/bmi_calculator.png)
+
+### 🎯 Goals
+![Goals](WellNest/frontend/public/images/goals.png)
+
+### 📅 Calendar
+![Calendar](WellNest/frontend/public/images/calendar.png)
+
+### 🧘 Yoga Search
+![Yoga Search](WellNest/frontend/public/images/yoga_search.png)
+
+### 🎥 Wellness Videos
+![Wellness Videos](WellNest/frontend/public/images/wellness_videos.png)
 ---
 Detailed Project Structure
 ```text
